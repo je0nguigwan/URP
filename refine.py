@@ -59,7 +59,7 @@ with st.container():
         <p style='color:#aaa; font-size:13px;'>입력 2025.06.17. 오전 10:32 · 수정 2025.06.17. 오전 10:40</p>
     """, unsafe_allow_html=True)
 
-    st.image("article_image.png", use_column_width=True)
+    st.image("https://img7.yna.co.kr/photo/yna/YH/2014/03/20/PYH2014032010070001300_P4.jpg", use_column_width=True)
 
     st.markdown("""
     <div style='color:#f1f1f1; font-size:16px; line-height:1.7;'>
